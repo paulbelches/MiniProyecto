@@ -1,0 +1,32 @@
+#Github
+
+1. Clonas
+
+git clone <Link>
+
+2. Guardar
+
+git add .
+git commit -m "<mensaje>"
+git push 
+
+3. Jalar
+
+(Siempre guardar primero)
+git pull
+
+#Consola
+
+cd - meterse al folder
+
+cd <nombre del folder>
+
+regresar a la carpeta anterior
+
+cd ../
+
+dir - Que archivos tenes en esa carpera
+
+#Jupyter notebook
+
+jupyter notebook
